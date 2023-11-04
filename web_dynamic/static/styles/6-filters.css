@@ -96,6 +96,7 @@ button:hover {
 }
 
 .popover ul h2{
+    display: inline-block;
     margin-top: 1.5%;
     margin-bottom: 5%;
     margin-left: 0px;
